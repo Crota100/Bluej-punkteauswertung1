@@ -5,8 +5,7 @@
  */
 public class KursAuswertung
 {
-    private Punkteliste liste;
-    
+    private Punkteliste liste; // liste
     public KursAuswertung(Punkteliste pPunkteliste)
     {
         liste = pPunkteliste;
